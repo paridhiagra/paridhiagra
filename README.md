@@ -38,11 +38,11 @@
 
 ```yaml
 name: "Paridhi Agrawal"
-role: "Software Engineer | AI/ML Enthusiast | Full Stack Developer"
+role: "Full Stack Developer | AI/ML Enthusiast"
 education: "B.Tech in Electronics & Communication Engineering, PSIT Kanpur (2027)"
 ```
 
-I'm an Electronics & Communication Engineering undergraduate with a strong inclination toward **software engineering, artificial intelligence, and full stack product development**. My work sits at the intersection of hardware-level understanding and modern software systems — giving me a first-principles approach to problem-solving.
+I'm an Electronics & Communication Engineering undergraduate with a strong inclination toward **artificial intelligence, and full stack product development**. My work sits at the intersection of hardware-level understanding and modern software systems — giving me a first-principles approach to problem-solving.
 
 I focus on writing **clean, scalable, production-oriented code**, building end-to-end applications, and exploring how **machine learning models can be integrated into real-world software products**. I approach engineering with a **product mindset** — not just "does it work," but "does it scale, does it make sense, and does it solve a real problem."
 
@@ -81,78 +81,56 @@ I focus on writing **clean, scalable, production-oriented code**, building end-t
 
 ---
 
-## 🟣 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Machine Learning Fundamentals** | ⭐⭐⭐⭐ | Supervised & unsupervised learning, regression, classification models |
-| **Deep Learning** | ⭐⭐⭐ | Neural networks, CNNs, model training with TensorFlow/PyTorch basics |
-| **Data Preprocessing & Analysis** | ⭐⭐⭐⭐ | Pandas, NumPy, feature engineering, EDA workflows |
-| **NLP Basics** | ⭐⭐⭐ | Text preprocessing, sentiment analysis, transformer-based model usage |
-| **Model Deployment** | ⭐⭐⭐ | Flask/FastAPI APIs for serving ML models into web applications |
-
-</div>
-
----
-
 ## 🟣 Featured Projects
 
 <details>
-<summary><b>🔹 AI-Powered Recommendation Engine</b></summary>
+<summary><b>🔹 Cartify — Full Stack E-Commerce Platform</b></summary>
 <br/>
 
-A machine learning based recommendation system designed to suggest relevant content to users based on behavior and preference data, integrated into a full stack web application.
+A full stack e-commerce web application built from the ground up, with product listings, a database-backed catalog, and server-rendered pages tailored for the Indian market.
 
 | Category | Detail |
 |---|---|
-| **Stack** | Python, Flask, React, MongoDB, Scikit-learn |
-| **Scale** | Handles multi-user session-based recommendations |
-| **Performance** | Optimized model inference for low-latency API responses |
-| **Security** | JWT-based authentication, input sanitization |
-| **Impact** | Improved content relevance and user engagement in testing |
+| **Stack** | Node.js, Express, SQLite (`node:sqlite`), EJS |
+| **Features** | Dynamic product catalog with seeded database, server-side rendered views, INR pricing |
+| **Design** | Clean, styled homepage with a focus on real-world e-commerce UX |
 | **Repository** | [github.com/paridhiagra](https://github.com/paridhiagra) |
 
-Built with a strong focus on connecting ML models to real, usable interfaces — bridging the gap between data science and product engineering.
+Built end-to-end to understand the full request lifecycle — from database schema design and seeding to templated views on the frontend.
 
 </details>
 
 <details>
-<summary><b>🔹 Full Stack Task & Productivity Platform</b></summary>
+<summary><b>🔹 E-Commerce Platform with Stripe Checkout</b></summary>
 <br/>
 
-A complete MERN stack based productivity application supporting authentication, real-time updates, and role-based access control.
+A full stack e-commerce application with a dedicated backend/frontend architecture and integrated payment processing via Stripe Checkout.
 
 | Category | Detail |
 |---|---|
-| **Stack** | MongoDB, Express.js, React, Node.js |
-| **Scale** | Multi-user, role-based access system |
-| **Performance** | RESTful API design with optimized query handling |
-| **Security** | Encrypted authentication, protected routes, input validation |
-| **Impact** | Streamlined task tracking workflow for end users |
+| **Stack** | Node.js, Express, SQLite (`node:sqlite`), Stripe Checkout |
+| **Features** | Secure checkout flow, structured backend/frontend separation |
+| **Debugging Highlights** | Resolved native module build issues by switching to `node:sqlite`, diagnosed and fixed Content Security Policy and dev-server reload issues affecting checkout requests |
 | **Repository** | [github.com/paridhiagra](https://github.com/paridhiagra) |
 
-Designed and developed end-to-end, emphasizing clean architecture, modular components, and maintainable code structure.
+A hands-on deep dive into real-world payment integration and the practical debugging that comes with it.
 
 </details>
 
 <details>
-<summary><b>🔹 IoT-Integrated Embedded Systems Project</b></summary>
+<summary><b>🔹 Travel Map Visualizer & Budget Animator</b></summary>
 <br/>
 
-Leveraging ECE background to build a hardware-software integrated system with sensor data pipelines feeding into a software dashboard.
+An interactive frontend portfolio project that visualizes a multi-city trip on a map, syncing route animations with scroll position and tracking budget along the way.
 
 | Category | Detail |
 |---|---|
-| **Stack** | Embedded C, Python, IoT Sensors, Cloud Dashboard |
-| **Scale** | Real-time sensor data acquisition and monitoring |
-| **Performance** | Low-latency data pipeline from hardware to dashboard |
-| **Security** | Secured data transmission protocols |
-| **Impact** | Practical demonstration of hardware-software integration |
+| **Stack** | React, Vite, Leaflet, Tailwind CSS v4 |
+| **Features** | Scroll-synced map, animated route reveals, offline caching via Service Worker |
+| **Sample Data** | 6-city India trip itinerary with ₹ budget tracking |
 | **Repository** | [github.com/paridhiagra](https://github.com/paridhiagra) |
 
-A project that reflects the unique intersection of my Electronics background with modern software engineering practices.
+Focused on smooth scroll-based interactions and thoughtful, earthy visual design for a lifestyle-brand feel.
 
 </details>
 
@@ -275,20 +253,20 @@ As a pre-final year engineering student, I actively build full stack application
 ```yaml
 Learning:
   - Advanced Data Structures & Algorithms
-  - Deep Learning & Neural Network Architectures
   - System Design Fundamentals
+  - Modern Frontend Frameworks & Tooling
 
 Building:
-  - Full Stack AI-Integrated Web Applications
+  - Full Stack Web Applications
   - Personal Portfolio Projects on GitHub
 
 Exploring:
-  - Large Language Models & NLP
   - Cloud Deployment & DevOps Practices
+  - Payment Gateway & Third-Party API Integrations
 
 Open To:
   - Software Engineering Internships
-  - AI/ML Research & Development Opportunities
+  - Full Stack Development Opportunities
   - Open Source Collaboration
 ```
 
