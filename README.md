@@ -165,22 +165,6 @@ An RFID-enabled smart shopping trolley that automates billing and reduces manual
 
 ---
 
-## 🟠 Experience
-
-**Aspiring Software Engineer** — *Self-Driven Projects & Continuous Learning*
-`2023 — Present`
-
-As a pre-final year engineering student, I actively build full-stack applications and embedded systems through self-driven and academic projects, simulating real-world software development practices.
-
-- Designed and developed full-stack web applications from scratch, including authentication, payments, and admin dashboards
-- Built hardware-software integrated systems combining embedded electronics with cloud-connected dashboards
-- Practiced clean code, version control, and collaborative workflows using Git/GitHub
-- Continuously strengthening data structures, algorithms, and system design fundamentals
-
-`React` `Node.js` `Express.js` `MongoDB` `PostgreSQL` `Stripe API` `Git/GitHub`
-
----
-
 ## 🟠 Achievements & Activities
 
 <div align="center">
