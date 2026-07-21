@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Paridhi%20Agrawal&fontSize=55&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18&descColor=B39DDB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Paridhi%20Agrawal&fontSize=55&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=B39DDB" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Full+Stack+Systems;ECE+Engineer+%7C+Software+Developer;AI%2FML+%2B+Product+Engineering+Mindset;Turning+Ideas+Into+Scalable+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Full+Stack+Web+Applications;ECE+Engineer+%7C+Software+Developer;Turning+Ideas+Into+Scalable+Code;Clean+Code+%2B+Product+Engineering+Mindset" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,13 +38,14 @@
 
 ```yaml
 name: "Paridhi Agrawal"
-role: "Full Stack Developer | AI/ML Enthusiast"
+role: "Full Stack Developer"
 education: "B.Tech in Electronics & Communication Engineering, PSIT Kanpur (2027)"
+cgpa: "7.37"
 ```
 
-I'm an Electronics & Communication Engineering undergraduate with a strong inclination toward **artificial intelligence, and full stack product development**. My work sits at the intersection of hardware-level understanding and modern software systems — giving me a first-principles approach to problem-solving.
+I'm an Electronics & Communication Engineering undergraduate with a strong interest in **full-stack development and software engineering**. My work sits at the intersection of hardware-level understanding and modern software systems — giving me a first-principles approach to problem-solving.
 
-I focus on writing **clean, scalable, production-oriented code**, building end-to-end applications, and exploring how **machine learning models can be integrated into real-world software products**. I approach engineering with a **product mindset** — not just "does it work," but "does it scale, does it make sense, and does it solve a real problem."
+I focus on writing **clean, scalable, production-oriented code**, building end-to-end applications, and shipping features like authentication, payments, and real-time interactivity into real, usable products. I approach engineering with a **product mindset** — not just "does it work," but "does it scale, does it make sense, and does it solve a real problem."
 
 <div align="center">
 
@@ -52,6 +53,7 @@ I focus on writing **clean, scalable, production-oriented code**, building end-t
 
 ![Open to Work](https://img.shields.io/badge/Open%20To-Full%20Stack%20Development-6D28D9?style=flat-square)
 ![Open to Work](https://img.shields.io/badge/Open%20To-Open%20Source%20Collaboration-4C1D95?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open%20To-Software%20Engineering%20Internships-5B21B6?style=flat-square)
 
 </div>
 
@@ -63,74 +65,101 @@ I focus on writing **clean, scalable, production-oriented code**, building end-t
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=cpp,python,java,js,c&theme=dark)
+![Skills](https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark)
 
 **Frontend**
 
-![Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,redux&theme=dark)
+![Skills](https://skillicons.dev/icons?i=react,vite,html,css,d3&theme=dark)
 
 **Backend & Databases**
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgres&theme=dark)
+![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sqlite&theme=dark)
 
-**Cloud, DevOps & Tooling**
+**Tools & Platforms**
 
-![Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark)
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,arduino&theme=dark)
 
 </div>
+
+**APIs & Auth:** JWT Authentication · Stripe API · Cloudinary API · REST APIs · Intersection Observer API · Service Workers · Mapbox GL JS · GeoJSON
+
+**Embedded Systems:** Arduino Nano/Mega · Raspberry Pi 3B+ · ESP32 DevKit V1 · RFID (RC522) · ADXL345 Accelerometer · L293D Motor Driver
+
+**Core Concepts:** Data Structures & Algorithms · Object-Oriented Programming · Responsive Web Design · CRUD Operations · DBMS
 
 ---
 
 ## 🟣 Featured Projects
 
-<details>
-<summary><b>🔹 Cartify — Full Stack E-Commerce Platform</b></summary>
+<details open>
+<summary><b>🔹 Cartify — Full-Stack E-Commerce Platform</b> · <a href="#">Live Demo</a></summary>
 <br/>
 
-A full stack e-commerce web application built from the ground up, with product listings, a database-backed catalog, and server-rendered pages tailored for the Indian market.
+A production-ready full-stack e-commerce application with secure session-based authentication, dynamic carts, invoice downloading, and an admin inventory dashboard.
 
 | Category | Detail |
 |---|---|
-| **Stack** | Node.js, Express, SQLite (`node:sqlite`), EJS |
-| **Features** | Dynamic product catalog with seeded database, server-side rendered views, INR pricing |
-| **Design** | Clean, styled homepage with a focus on real-world e-commerce UX |
+| **Stack** | Node.js, Express.js, Neon PostgreSQL, Cloudinary API, Stripe API, Vercel |
+| **Auth & Sessions** | Session-based authentication with database-backed session storage (`connect-pg-simple`) for persistence across serverless lifecycles |
+| **Payments** | Full Stripe checkout flow with automated PDF invoice generation |
+| **Media Pipeline** | Automated Cloudinary pipeline for dynamic product image optimization |
 | **Repository** | [github.com/paridhiagra](https://github.com/paridhiagra) |
-
-Built end-to-end to understand the full request lifecycle — from database schema design and seeding to templated views on the frontend.
 
 </details>
 
 <details>
-<summary><b>🔹 E-Commerce Platform with Stripe Checkout</b></summary>
+<summary><b>🔹 Kanbanly — Full-Stack Kanban Board Application</b> · <a href="https://github.com/paridhiagra">GitHub</a></summary>
 <br/>
 
-A full stack e-commerce application with a dedicated backend/frontend architecture and integrated payment processing via Stripe Checkout.
+A Trello-inspired Kanban board application for efficient task and project management.
 
 | Category | Detail |
 |---|---|
-| **Stack** | Node.js, Express, SQLite (`node:sqlite`), Stripe Checkout |
-| **Features** | Secure checkout flow, structured backend/frontend separation |
-| **Debugging Highlights** | Resolved native module build issues by switching to `node:sqlite`, diagnosed and fixed Content Security Policy and dev-server reload issues affecting checkout requests |
+| **Stack** | React.js (Vite), Node.js, Express.js, MongoDB, JWT Authentication, Axios |
+| **Features** | Secure authentication, board creation, drag-and-drop task management, full CRUD for boards, lists, and cards |
+| **Design** | Responsive interface built for smooth day-to-day task tracking |
 | **Repository** | [github.com/paridhiagra](https://github.com/paridhiagra) |
-
-A hands-on deep dive into real-world payment integration and the practical debugging that comes with it.
 
 </details>
 
 <details>
-<summary><b>🔹 Travel Map Visualizer & Budget Animator</b></summary>
+<summary><b>🔹 Travel Map Visualizer & Budget Animator</b> <i>(Ongoing)</i></summary>
 <br/>
 
-An interactive frontend portfolio project that visualizes a multi-city trip on a map, syncing route animations with scroll position and tracking budget along the way.
+An interactive travel planning web application that visualizes travel routes and manages trip budgets through animated dashboards and map-based storytelling.
 
 | Category | Detail |
 |---|---|
-| **Stack** | React, Vite, Leaflet, Tailwind CSS v4 |
-| **Features** | Scroll-synced map, animated route reveals, offline caching via Service Worker |
-| **Sample Data** | 6-city India trip itinerary with ₹ budget tracking |
+| **Stack** | React.js, Mapbox GL JS, GeoJSON, D3.js, Intersection Observer API, IndexedDB, Service Workers |
+| **Features** | Animated route visualization, scroll-synced map navigation, offline itinerary support, interactive budget dashboard |
+| **Focus** | Optimizing rendering performance for a smooth, story-driven user experience |
 | **Repository** | [github.com/paridhiagra](https://github.com/paridhiagra) |
 
-Focused on smooth scroll-based interactions and thoughtful, earthy visual design for a lifestyle-brand feel.
+</details>
+
+<details>
+<summary><b>🔹 Gesture Controlled Robot with Wireless Surveillance</b> <i>(Sept 2025 – Nov 2025)</i></summary>
+<br/>
+
+A gesture-controlled robotic system capable of wireless surveillance and real-time remote monitoring.
+
+| Category | Detail |
+|---|---|
+| **Components** | Arduino Mega, Raspberry Pi 3B+, ESP32 DevKit V1, ADXL345 Accelerometer, Flex Sensor, L293D Motor Driver, DC Gear Motors, Wireless Camera Module |
+| **Features** | Real-time gesture recognition for robot movement, wireless video streaming, obstacle-aware navigation |
+
+</details>
+
+<details>
+<summary><b>🔹 Smart Trolley with Automatic Billing System</b> <i>(Oct 2024 – Jan 2025)</i></summary>
+<br/>
+
+An RFID-enabled smart shopping trolley that automates billing and reduces manual checkout time in retail environments.
+
+| Category | Detail |
+|---|---|
+| **Components** | Arduino Nano, RFID Reader (RC522), RFID Tags, LCD Display, Buzzer Module |
+| **Features** | Automatic product identification, real-time bill generation, inventory tracking |
 
 </details>
 
@@ -141,26 +170,27 @@ Focused on smooth scroll-based interactions and thoughtful, earthy visual design
 **Aspiring Software Engineer** — *Self-Driven Projects & Continuous Learning*
 `2023 — Present`
 
-As a pre-final year engineering student, I actively build full stack applications and explore AI/ML integrations through self-driven and academic projects, simulating real-world software development practices.
+As a pre-final year engineering student, I actively build full-stack applications and embedded systems through self-driven and academic projects, simulating real-world software development practices.
 
-- Designed and developed full stack web applications from scratch
-- Explored machine learning model building, training, and deployment
+- Designed and developed full-stack web applications from scratch, including authentication, payments, and admin dashboards
+- Built hardware-software integrated systems combining embedded electronics with cloud-connected dashboards
 - Practiced clean code, version control, and collaborative workflows using Git/GitHub
 - Continuously strengthening data structures, algorithms, and system design fundamentals
 
-`React` `Node.js` `Python` `Machine Learning` `MongoDB` `Git/GitHub`
+`React` `Node.js` `Express.js` `MongoDB` `PostgreSQL` `Stripe API` `Git/GitHub`
 
 ---
 
-## 🟣 Achievements
+## 🟣 Achievements & Activities
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
+| 🏅 **1st Position — Poster Making Contest** | Organized by Ingenious, The Film Making Club of PSIT (Dec 2024) |
+| 🏅 **Student Member, IETE** | Institution of Electronics and Telecommunication Engineers (Nov 2024 – Nov 2027) |
 | 🏅 **Consistent Problem Solver** | Actively solving DSA problems across coding platforms |
-| 🏅 **Academic Excellence** | Maintaining strong academic performance in B.Tech ECE |
-| 🏅 **Self-Taught Full Stack & AI/ML Developer** | Independently mastered full stack and ML concepts alongside core curriculum |
+| 🏅 **Academic Performance** | CGPA 7.37 in B.Tech ECE |
 
 </div>
 
@@ -170,21 +200,13 @@ As a pre-final year engineering student, I actively build full stack application
 
 <div align="center">
 
-**AWS**
-
-![AWS](https://img.shields.io/badge/Certification-In%20Progress-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle](https://img.shields.io/badge/Certification-In%20Progress-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/Certification-In%20Progress-8B5CF6?style=flat-square&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Certification-In%20Progress-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+| Certification | Provider | Year |
+|---|---|---|
+| Python for Data Science | Infosys Springboard | 2025 |
+| Build Website using AI | Simplilearn | 2025 |
+| VLSI Course | Simplilearn | 2025 |
+| Data Analytics Job Simulation | Deloitte Forage | 2026 |
+| SQL (Basic) | HackerRank | 2025 |
 
 </div>
 
@@ -261,7 +283,7 @@ Building:
   - Personal Portfolio Projects on GitHub
 
 Exploring:
-  - Cloud Deployment & DevOps Practices
+  - Cloud Deployment (Vercel) & Serverless Architecture
   - Payment Gateway & Third-Party API Integrations
 
 Open To:
