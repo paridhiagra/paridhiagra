@@ -1,40 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B0504,50:8A3A0F,100:F4741B&height=280&section=header&text=Paridhi%20Agrawal&fontSize=55&fontColor=FFDAB4&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=FFB27A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0A4D8C,100:00D9FF&height=280&section=header&text=Paridhi%20Agrawal&fontSize=55&fontColor=E0F7FA&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=7DD3FC" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF7A3D&center=true&vCenter=true&width=650&lines=Building+Full+Stack+Web+Applications;ECE+Engineer+%7C+Software+Developer;Turning+Ideas+Into+Scalable+Code;Clean+Code+%2B+Product+Engineering+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Full+Stack+Web+Applications;ECE+Engineer+%7C+Software+Developer;Turning+Ideas+Into+Scalable+Code;Clean+Code+%2B+Product+Engineering+Mindset" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Degree](https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication-D9480F?style=flat-square&logo=studyverse&logoColor=white)
-![College](https://img.shields.io/badge/PSIT%20Kanpur-Graduating%202027-9A3412?style=flat-square&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/📍-Kanpur,%20India-C2410C?style=flat-square)
+![Degree](https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication-0369A1?style=flat-square&logo=studyverse&logoColor=white)
+![College](https://img.shields.io/badge/PSIT%20Kanpur-Graduating%202027-0A4D8C?style=flat-square&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/📍-Kanpur,%20India-0EA5E9?style=flat-square)
 
 <br/>
 
 <a href="https://www.linkedin.com/in/paridhi-agrawal-313932325">
-  <img src="https://img.shields.io/badge/LinkedIn-FF7A3D?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:agrawalparidhi60@gmail.com">
-  <img src="https://img.shields.io/badge/Email-F4741B?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/paridhiagra">
-  <img src="https://img.shields.io/badge/GitHub-D9480F?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0369A1?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=paridhiagra&style=flat-square&color=f4741b&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/paridhiagra?style=flat-square&color=e8590c&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/paridhiagra?style=flat-square&color=d9480f&label=STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=paridhiagra&style=flat-square&color=00d9ff&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/paridhiagra?style=flat-square&color=0ea5e9&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/paridhiagra?style=flat-square&color=0369a1&label=STARS&logo=github)
 
 </div>
 
 ---
 
-## 🟠 About Me
+## 🔵 About Me
 
 ```yaml
 name: "Paridhi Agrawal"
@@ -51,15 +51,15 @@ I focus on writing **clean, scalable, production-oriented code**, building end-t
 
 ### 🎯 Open To
 
-![Open to Work](https://img.shields.io/badge/Open%20To-Full%20Stack%20Development-D9480F?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20To-Open%20Source%20Collaboration-9A3412?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20To-Software%20Engineering%20Internships-C2410C?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open%20To-Full%20Stack%20Development-0369A1?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open%20To-Open%20Source%20Collaboration-0A4D8C?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open%20To-Software%20Engineering%20Internships-0EA5E9?style=flat-square)
 
 </div>
 
 ---
 
-## 🟠 Tech Stack
+## 🔵 Tech Stack
 
 <div align="center">
 
@@ -89,10 +89,10 @@ I focus on writing **clean, scalable, production-oriented code**, building end-t
 
 ---
 
-## 🟠 Featured Projects
+## 🔵 Featured Projects
 
 <details open>
-<summary><b>🔸 Cartify — Full-Stack E-Commerce Platform</b> · <a href="#">Live Demo</a></summary>
+<summary><b>🔹 Cartify — Full-Stack E-Commerce Platform</b> · <a href="#">Live Demo</a></summary>
 <br/>
 
 A production-ready full-stack e-commerce application with secure session-based authentication, dynamic carts, invoice downloading, and an admin inventory dashboard.
@@ -108,7 +108,7 @@ A production-ready full-stack e-commerce application with secure session-based a
 </details>
 
 <details>
-<summary><b>🔸 Kanbanly — Full-Stack Kanban Board Application</b> · <a href="https://github.com/paridhiagra">GitHub</a></summary>
+<summary><b>🔹 Kanbanly — Full-Stack Kanban Board Application</b> · <a href="https://github.com/paridhiagra">GitHub</a></summary>
 <br/>
 
 A Trello-inspired Kanban board application for efficient task and project management.
@@ -123,7 +123,7 @@ A Trello-inspired Kanban board application for efficient task and project manage
 </details>
 
 <details>
-<summary><b>🔸 Travel Map Visualizer & Budget Animator</b> <i>(Ongoing)</i></summary>
+<summary><b>🔹 Travel Map Visualizer & Budget Animator</b> <i>(Ongoing)</i></summary>
 <br/>
 
 An interactive travel planning web application that visualizes travel routes and manages trip budgets through animated dashboards and map-based storytelling.
@@ -138,7 +138,7 @@ An interactive travel planning web application that visualizes travel routes and
 </details>
 
 <details>
-<summary><b>🔸 Gesture Controlled Robot with Wireless Surveillance</b> <i>(Sept 2025 – Nov 2025)</i></summary>
+<summary><b>🔹 Gesture Controlled Robot with Wireless Surveillance</b> <i>(Sept 2025 – Nov 2025)</i></summary>
 <br/>
 
 A gesture-controlled robotic system capable of wireless surveillance and real-time remote monitoring.
@@ -151,7 +151,7 @@ A gesture-controlled robotic system capable of wireless surveillance and real-ti
 </details>
 
 <details>
-<summary><b>🔸 Smart Trolley with Automatic Billing System</b> <i>(Oct 2024 – Jan 2025)</i></summary>
+<summary><b>🔹 Smart Trolley with Automatic Billing System</b> <i>(Oct 2024 – Jan 2025)</i></summary>
 <br/>
 
 An RFID-enabled smart shopping trolley that automates billing and reduces manual checkout time in retail environments.
@@ -165,7 +165,7 @@ An RFID-enabled smart shopping trolley that automates billing and reduces manual
 
 ---
 
-## 🟠 Achievements & Activities
+## 🔵 Achievements & Activities
 
 <div align="center">
 
@@ -180,7 +180,7 @@ An RFID-enabled smart shopping trolley that automates billing and reduces manual
 
 ---
 
-## 🟠 Certifications
+## 🔵 Certifications
 
 <div align="center">
 
@@ -196,35 +196,35 @@ An RFID-enabled smart shopping trolley that automates billing and reduces manual
 
 ---
 
-## 🟠 Coding Profiles
+## 🔵 Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/u/paridhi__12/">
-  <img src="https://img.shields.io/badge/LeetCode-D9480F?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-0369A1?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://www.hackerrank.com/profile/ec4a_paridhi_091">
-  <img src="https://img.shields.io/badge/HackerRank-F4741B?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-00D9FF?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 🟠 GitHub Analytics
+## 🔵 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paridhiagra&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7A3D&icon_color=F4741B&text_color=FFDAB4" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paridhiagra&hide_border=true&background=0D1117&ring=F4741B&fire=FF9F1C&currStreakLabel=FF7A3D&sideLabels=FFDAB4&currStreakNum=FFDAB4&sideNums=FFDAB4&dates=FFB27A" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=paridhiagra&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=00D9FF&text_color=E0F7FA" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=paridhiagra&hide_border=true&background=0D1117&ring=00D9FF&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E0F7FA&currStreakNum=E0F7FA&sideNums=E0F7FA&dates=7DD3FC" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paridhiagra&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF7A3D&text_color=FFDAB4" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paridhiagra&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E0F7FA" width="48%"/>
 
 </div>
 
 ---
 
-## 🟠 GitHub Trophies
+## 🔵 GitHub Trophies
 
 <div align="center">
 
@@ -234,17 +234,17 @@ An RFID-enabled smart shopping trolley that automates billing and reduces manual
 
 ---
 
-## 🟠 Contribution Activity
+## 🔵 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paridhiagra&hide_border=true&bg_color=0D1117&color=FFDAB4&line=F4741B&point=FF9F1C" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paridhiagra&hide_border=true&bg_color=0D1117&color=E0F7FA&line=38BDF8&point=00D9FF" width="100%"/>
 
 </div>
 
 ---
 
-## 🟠 Contribution Snake
+## 🔵 Contribution Snake
 
 <div align="center">
 
@@ -254,7 +254,7 @@ An RFID-enabled smart shopping trolley that automates billing and reduces manual
 
 ---
 
-## 🟠 Current Focus
+## 🔵 Current Focus
 
 ```yaml
 Learning:
@@ -278,18 +278,18 @@ Open To:
 
 ---
 
-## 🟠 Connect With Me
+## 🔵 Connect With Me
 
 <div align="center">
 
 <a href="mailto:agrawalparidhi60@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-F4741B?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/paridhi-agrawal-313932325">
-  <img src="https://img.shields.io/badge/LinkedIn-FF7A3D?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/paridhiagra">
-  <img src="https://img.shields.io/badge/GitHub-D9480F?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0369A1?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -300,6 +300,6 @@ Open To:
 
 *"Engineering thoughtful solutions at the intersection of hardware, software, and intelligence."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4741B,50:8A3A0F,100:2B0504&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0A4D8C,100:020617&height=150&section=footer" width="100%"/>
 
 </div>
