@@ -54,51 +54,37 @@ I enjoy working across frontend, backend, databases, and embedded systems while 
 
 ## 🚀 Projects
 
-### Kanbanly — Full-Stack Kanban Board
-
-A task management application inspired by Trello, featuring secure authentication, drag-and-drop task management, and complete CRUD operations.
-
-**Tech:** React.js · Vite · Node.js · Express.js · MongoDB · JWT · Axios
-
-[View Repository](https://github.com/paridhiagra)
-
 ---
+### Smart Trolley with Automatic Billing System
 
-### AgriGuard AI — Smart Agriculture System
+An RFID-based smart shopping trolley that automatically identifies products and generates the bill in real time.
 
-An AI-powered agriculture project designed to provide irrigation-related insights using environmental and soil conditions.
-
-**Tech:** React · Node.js · AI/Gemini · REST APIs
-
-[View Repository](https://github.com/paridhiagra/AgriGaurd-Ai)
-
----
-
-### Gesture Controlled Robot
-
-A gesture-controlled robotic system with wireless surveillance and remote monitoring capabilities.
-
-**Components:** Arduino Mega · Raspberry Pi 3B+ · ESP32 · ADXL345 · Flex Sensor · L293D · DC Gear Motors
-
-**Features:** Gesture-based movement · Wireless monitoring · Obstacle-aware navigation
-
----
-
-### Smart Trolley with Automatic Billing
-
-An RFID-based smart shopping trolley that identifies products and generates the bill in real time.
-
-**Components:** Arduino Nano · RFID RC522 · RFID Tags · LCD · Buzzer
+**Components:** Arduino Nano · RFID RC522 · RFID Tags · LCD Display · Buzzer
 
 **Features:** Automatic product identification · Real-time billing · Inventory tracking
 
+[GitHub →]((https://github.com/paridhiagra/Smart-Trolley-with-Automatic-Billing-System-.git))
+
 ---
 
-### Travel Map Visualizer & Budget Animator
+### Gesture Controlled Robot with Wireless Surveillance
 
-An interactive travel planning application that visualizes routes and manages trip budgets through animated dashboards and maps.
+A gesture-controlled robotic system that combines sensor-based movement with wireless surveillance and remote monitoring.
 
-**Tech:** React · Mapbox GL JS · GeoJSON · D3.js · IndexedDB · Service Workers
+**Components:** Arduino Mega · Raspberry Pi 3B+ · Flex Sensor · Accelerometer · L293D Motor Driver · DC Gear Motors
+
+**Features:** Gesture-based movement · Wireless surveillance · Real-time monitoring
+
+[GitHub →]((https://github.com/paridhiagra/Gesture-Controlled-Robot-with-Wireless-Surveillance.git))
+
+---
+### Veilix AI — AI-Powered App Permission Intelligence
+
+An evidence-first application permission analysis platform that helps users understand Android app permissions and associated risks.
+
+**Tech:** React · Vite · JavaScript · Node.js · Express.js · REST APIs · Gemini AI
+
+[GitHub →](https://github.com/paridhiagra/Veilix-AI)
 
 ---
 
