@@ -63,7 +63,7 @@ An RFID-based smart shopping trolley that automatically identifies products and 
 
 **Features:** Automatic product identification · Real-time billing · Inventory tracking
 
-[GitHub →]((https://github.com/paridhiagra/Smart-Trolley-with-Automatic-Billing-System-.git))
+[GitHub →]([YOUR_GITHUB_REPO_LINK](https://github.com/paridhiagra/Smart-Trolley-with-Automatic-Billing-System-.git))
 
 ---
 
@@ -75,8 +75,7 @@ A gesture-controlled robotic system that combines sensor-based movement with wir
 
 **Features:** Gesture-based movement · Wireless surveillance · Real-time monitoring
 
-[GitHub →]((https://github.com/paridhiagra/Gesture-Controlled-Robot-with-Wireless-Surveillance.git))
-
+[GitHub →]([YOUR_GITHUB_REPO_LINK](https://github.com/paridhiagra/Gesture-Controlled-Robot-with-Wireless-Surveillance.git))
 ---
 ### Veilix AI — AI-Powered App Permission Intelligence
 
