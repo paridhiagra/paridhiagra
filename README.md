@@ -143,11 +143,14 @@ An interactive travel planning application that visualizes routes and manages tr
 
 ---
 
-## 📊 GitHub
+### Contribution Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=paridhiagra&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paridhiagra&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paridhiagra&hide_border=true&theme=github-compact" width="100%"/>
+
+### Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/paridhiagra/paridhiagra/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 ---
