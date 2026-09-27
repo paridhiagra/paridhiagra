@@ -55,7 +55,8 @@ I enjoy working across frontend, backend, databases, and embedded systems while 
 ## 🚀 Projects
 
 ---
-### Smart Trolley with Automatic Billing System
+
+### 🛒 Smart Trolley with Automatic Billing System
 
 An RFID-based smart shopping trolley that automatically identifies products and generates the bill in real time.
 
@@ -63,11 +64,11 @@ An RFID-based smart shopping trolley that automatically identifies products and 
 
 **Features:** Automatic product identification · Real-time billing · Inventory tracking
 
-[GitHub →]([YOUR_GITHUB_REPO_LINK](https://github.com/paridhiagra/Smart-Trolley-with-Automatic-Billing-System-.git))
+**[GitHub](https://github.com/paridhiagra/Smart-Trolley-with-Automatic-Billing-System-)**
 
 ---
 
-### Gesture Controlled Robot with Wireless Surveillance
+### 🤖 Gesture Controlled Robot with Wireless Surveillance
 
 A gesture-controlled robotic system that combines sensor-based movement with wireless surveillance and remote monitoring.
 
@@ -75,15 +76,17 @@ A gesture-controlled robotic system that combines sensor-based movement with wir
 
 **Features:** Gesture-based movement · Wireless surveillance · Real-time monitoring
 
-[GitHub →]([YOUR_GITHUB_REPO_LINK](https://github.com/paridhiagra/Gesture-Controlled-Robot-with-Wireless-Surveillance.git))
+**[GitHub](https://github.com/paridhiagra/Gesture-Controlled-Robot-with-Wireless-Surveillance)**
+
 ---
-### Veilix AI — AI-Powered App Permission Intelligence
+
+### 🛡️ Veilix AI — AI-Powered App Permission Intelligence
 
 An evidence-first application permission analysis platform that helps users understand Android app permissions and associated risks.
 
 **Tech:** React · Vite · JavaScript · Node.js · Express.js · REST APIs · Gemini AI
 
-[GitHub →](https://github.com/paridhiagra/Veilix-AI)
+**[GitHub](https://github.com/paridhiagra/Veilix-AI)**
 
 ---
 
